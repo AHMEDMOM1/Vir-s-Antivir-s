@@ -1,0 +1,14 @@
+S:\Code\C#\VirüsAntivirüs Project\VirusSimulator\bin\Debug\net9.0\VirusSimulator.exe
+S:\Code\C#\VirüsAntivirüs Project\VirusSimulator\bin\Debug\net9.0\VirusSimulator.deps.json
+S:\Code\C#\VirüsAntivirüs Project\VirusSimulator\bin\Debug\net9.0\VirusSimulator.runtimeconfig.json
+S:\Code\C#\VirüsAntivirüs Project\VirusSimulator\bin\Debug\net9.0\VirusSimulator.dll
+S:\Code\C#\VirüsAntivirüs Project\VirusSimulator\bin\Debug\net9.0\VirusSimulator.pdb
+S:\Code\C#\VirüsAntivirüs Project\VirusSimulator\obj\Debug\net9.0\VirusSimulator.GeneratedMSBuildEditorConfig.editorconfig
+S:\Code\C#\VirüsAntivirüs Project\VirusSimulator\obj\Debug\net9.0\VirusSimulator.AssemblyInfoInputs.cache
+S:\Code\C#\VirüsAntivirüs Project\VirusSimulator\obj\Debug\net9.0\VirusSimulator.AssemblyInfo.cs
+S:\Code\C#\VirüsAntivirüs Project\VirusSimulator\obj\Debug\net9.0\VirusSimulator.csproj.CoreCompileInputs.cache
+S:\Code\C#\VirüsAntivirüs Project\VirusSimulator\obj\Debug\net9.0\VirusSimulator.dll
+S:\Code\C#\VirüsAntivirüs Project\VirusSimulator\obj\Debug\net9.0\refint\VirusSimulator.dll
+S:\Code\C#\VirüsAntivirüs Project\VirusSimulator\obj\Debug\net9.0\VirusSimulator.pdb
+S:\Code\C#\VirüsAntivirüs Project\VirusSimulator\obj\Debug\net9.0\VirusSimulator.genruntimeconfig.cache
+S:\Code\C#\VirüsAntivirüs Project\VirusSimulator\obj\Debug\net9.0\ref\VirusSimulator.dll

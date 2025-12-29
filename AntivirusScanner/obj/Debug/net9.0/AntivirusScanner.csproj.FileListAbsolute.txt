@@ -1,0 +1,14 @@
+S:\Code\C#\VirüsAntivirüs Project\AntivirusScanner\bin\Debug\net9.0\AntivirusScanner.exe
+S:\Code\C#\VirüsAntivirüs Project\AntivirusScanner\bin\Debug\net9.0\AntivirusScanner.deps.json
+S:\Code\C#\VirüsAntivirüs Project\AntivirusScanner\bin\Debug\net9.0\AntivirusScanner.runtimeconfig.json
+S:\Code\C#\VirüsAntivirüs Project\AntivirusScanner\bin\Debug\net9.0\AntivirusScanner.dll
+S:\Code\C#\VirüsAntivirüs Project\AntivirusScanner\bin\Debug\net9.0\AntivirusScanner.pdb
+S:\Code\C#\VirüsAntivirüs Project\AntivirusScanner\obj\Debug\net9.0\AntivirusScanner.GeneratedMSBuildEditorConfig.editorconfig
+S:\Code\C#\VirüsAntivirüs Project\AntivirusScanner\obj\Debug\net9.0\AntivirusScanner.AssemblyInfoInputs.cache
+S:\Code\C#\VirüsAntivirüs Project\AntivirusScanner\obj\Debug\net9.0\AntivirusScanner.AssemblyInfo.cs
+S:\Code\C#\VirüsAntivirüs Project\AntivirusScanner\obj\Debug\net9.0\AntivirusScanner.csproj.CoreCompileInputs.cache
+S:\Code\C#\VirüsAntivirüs Project\AntivirusScanner\obj\Debug\net9.0\AntivirusScanner.dll
+S:\Code\C#\VirüsAntivirüs Project\AntivirusScanner\obj\Debug\net9.0\refint\AntivirusScanner.dll
+S:\Code\C#\VirüsAntivirüs Project\AntivirusScanner\obj\Debug\net9.0\AntivirusScanner.pdb
+S:\Code\C#\VirüsAntivirüs Project\AntivirusScanner\obj\Debug\net9.0\AntivirusScanner.genruntimeconfig.cache
+S:\Code\C#\VirüsAntivirüs Project\AntivirusScanner\obj\Debug\net9.0\ref\AntivirusScanner.dll
